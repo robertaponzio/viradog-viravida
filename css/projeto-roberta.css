@@ -1,0 +1,48 @@
+.home-banner {
+  height:400px;
+  display:flex;
+  align-items:center;
+  background:url("../img/banner-adocao.jpg") center center;
+  background-size:cover;
+  color: bisque;
+}
+
+.home-banner-content {
+  background: #00000066;
+  padding: 10px;
+}
+
+.banner-feature {
+    height:400px;
+    display:flex;
+    align-items:center;
+    background:url("../img/banner-adocao.jpg") center center;
+    background-size:cover;
+    color: bisque;
+}
+
+.pet-card {
+    padding-bottom: 20px;
+}
+
+.pet-detail-head {
+    padding: 1rem;
+    background-color: #F3969A;
+}
+
+.pet-detail-head h1 {
+    color: #fff;
+    font-size: 1.8rem;
+}
+
+.pet-footer {
+    padding-top: 20px;
+}
+
+.nav-link {
+    font-weight: 800;
+}
+
+.pet-breadcrumb {
+    margin: 10px 0px;
+}
